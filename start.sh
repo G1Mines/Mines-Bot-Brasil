@@ -1,4 +1,5 @@
 #!/bin/bash
 
-echo "Iniciando a aplicação..."
-python3 app.py
+echo "Iniciando o bot no Telegram..."
+python3 sinais_mines.py
+
